@@ -1,0 +1,29 @@
+.form{
+    display:table;
+}
+.formdesign input{
+font-size: 15px;
+padding: 10px 14px;
+border: 1px solid red;
+border-radius: 12px;
+background-color:lawngreen;
+}
+.formdesign{
+font-size: 20px;
+font-weight: bold;
+color:rgb(239, 82, 21);
+}
+#button{
+padding: 10px 12px;
+border: 2px solid rgb(2, 12, 84);
+border-radius: 7px;
+background-color: skyblue;
+}
+body{
+background-color: aquamarine;
+}
+h1{
+font-size: 30px;
+font-family: sans-serif;
+color: darkgoldenrod;
+}
